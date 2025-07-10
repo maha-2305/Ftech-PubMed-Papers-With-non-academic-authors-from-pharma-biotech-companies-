@@ -1,0 +1,1 @@
+# Ftech-PubMed-Papers-With-non-academic-authors-from-pharma-biotech-companies-
