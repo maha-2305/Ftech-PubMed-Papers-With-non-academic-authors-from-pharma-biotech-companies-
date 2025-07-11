@@ -11,7 +11,7 @@ A Python tool to fetch research papers from PubMed with at least one author affi
 ## Installation
 
 1. Install Poetry: pip install poetry
-2. Clone the repository: git clone https://github.com/Sanskar7805/pubmed-papers-fetcher.git
+2. Clone the repository: git clone https://github.com/maha-2305/pubmed-papers-fetcher.git
 3. Navigate to the project directory
 4. Install dependencies: poetry install
 
